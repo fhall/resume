@@ -15,29 +15,23 @@ body {
 	padding: 1em;
 }
 
-aside #profile-short {
+section#bio {
 	display: flex;
+	padding: 0 1em;
 }
 
-.profile-image {
+section#bio img {
 	border-radius: 50%;
 	padding: 0 1em 0 0;
-	max-width: 25%;
+	max-width: 80%;
 	align-self: center;
 }
 
-.profile-text {
+section#bio p {
 	align-self: center;
 }
 
 /** General */
-
-.flexStart-top {
-	display: flex;
-	align-items: flex-start;
-	justify-content: center;
-	flex-wrap: wrap;
-}
 
 img {
 	display: block;
