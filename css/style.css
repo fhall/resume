@@ -4,8 +4,9 @@ html, body {
 }
 
 body {
-	/*background-color: #013A6B;*/
-  /*background-image: -webkit-linear-gradient(15deg, #013A6B 50%, #004E95 50%);*/
+	/*background-color: #ECECEA;*/
+  /*background-image: -webkit-linear-gradient(15deg, #DFE2DB 50%, #ECECEA 50%);*/
+	color: #191919;
 	font-family: 'Slabo 27px', serif;
 }
 
@@ -13,6 +14,10 @@ body {
 	max-width: 800px;
 	margin: auto;
 	padding: 1em;
+}
+
+nav a {
+	padding: 0 1em 0 0;
 }
 
 section#bio {
@@ -33,9 +38,10 @@ section#bio p {
 
 /** General */
 
-img {
-	display: block;
-	width: 100%;
-	max-width: 100%;
-	height: 100%;
+a {
+	color: #444;
+}
+
+a:hover, a:active {
+	color: #000;
 }

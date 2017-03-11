@@ -37,8 +37,14 @@
 <div id="wrapper">
 
 <header>
-	<h1></h1>
+	<h1>Resume of Fredrik Hall</h1>
 </header>
+
+<nav>
+<?php foreach($content as $name => $html) : ?>
+	<a href="#<?php echo $name; ?>"><?php echo $name; ?></a>
+<?php endforeach; ?>
+</nav>
 
 <section id="content">
 
