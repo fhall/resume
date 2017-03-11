@@ -11,7 +11,8 @@
 	$markdown_resources_urls = [
 		'bio' => 'https://raw.githubusercontent.com/fhall/resume/master/content/bio.md',
 		'experience' => 'https://raw.githubusercontent.com/fhall/resume/master/content/experience.md',
-		'education' => 'https://raw.githubusercontent.com/fhall/resume/master/content/education.md'
+		'education' => 'https://raw.githubusercontent.com/fhall/resume/master/content/education.md',
+		'contact' => 'https://raw.githubusercontent.com/fhall/resume/master/content/contact.md'
 	];
 
 	/** The transformed content (initially an empty array) */
