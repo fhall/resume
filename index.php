@@ -52,7 +52,7 @@
 	/** Loop through the transformed content array and put each content resource in a separate section */
 	foreach ($content as $name => $html) :
 ?>
-	<section id="<?php echo $name; ?>">
+	<section id="<?php echo $name; ?>" data-max-items="3" data-max-items-delimiter="h3">
 		<?php echo $html; ?>
 	</section>
 <?php endforeach; ?>
@@ -60,6 +60,8 @@
 </section>
 
 </div>
+
+<script type="text/javascript" src="js/resume.js"></script>
 
 </body>
 </html>
