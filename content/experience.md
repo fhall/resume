@@ -6,7 +6,7 @@ Feb 2017 - Today, Skånetrafiken
 IT Architect at Skånetrafiken. Skånetrafiken is responsible for public transport in Skåne, Sweden. As the only IT architect I am working on both a strategic and operative level. The responsibilities include
 
 *   continuously reviewing the enterprise from an IT perspective
-*   overseeing the management and development of systems and technology
+*   support in the development and operations of systems and technology
 *   support in technical choices and requirements for new services
 
 [Skånetrafiken website](https://www.skanetrafiken.se)
